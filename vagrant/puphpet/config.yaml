@@ -242,6 +242,8 @@ php:
             - intl
             - dom
             - mcrypt
+            - mbstring
+            - gd
         pear: {  }
         pecl: {  }
     ini:
